@@ -1,0 +1,9 @@
+*.sdf
+*.dll
+*.obj
+*.log
+*.pdb
+*.exe
+*.tlog
+*.idb
+*.cso

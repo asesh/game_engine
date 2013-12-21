@@ -1,0 +1,16 @@
+9/25/2012 7:58:53- Game engine started
+9/25/2012 7:58:53- Initializing core engine
+9/25/2012 7:58:53- Core engine initialization complete
+9/25/2012 7:58:53- Initializing the scripting engine
+9/25/2012 7:58:53- Scripting engine initialization complete
+9/25/2012 7:58:53- Core engine initialization complete
+9/25/2012 7:58:53- Initializing game engine
+9/25/2012 7:58:53- Inside createShaders method
+9/25/2012 7:58:53- About to load DiffuseLighting.fx shader
+9/25/2012 7:58:53- Successfully loaded DiffuseLighting.fx shader
+9/25/2012 7:58:53- About to load Instancing.fx shader
+9/25/2012 7:58:53- Successfully loaded Instancing.fx shader
+9/25/2012 7:58:53- About to load NormalMapping.fx shader
+9/25/2012 7:58:53- Successfully loaded NormalMapping.fx shader
+9/25/2012 7:58:53- Game engine initialization complete
+9/25/2012 7:58:56- Game engine is about to quit

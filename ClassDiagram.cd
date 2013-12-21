@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CD2DGraphics" Collapsed="true">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICgggAAYAAMkAEiACEAQAGCAAYACABIQCEAFCCAQBBE=</HashCode>
+      <FileName>Graphics\D2DGraphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CD3DCore" Collapsed="true">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAQAAAAAAACAEAIQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\D3DCore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CD3DGraphics" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IOKcVEKdBgdA2EuGAsOYbLBoTAYQjVwBAQB3YKuyDxA=</HashCode>
+      <FileName>Graphics\D3DGraphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffect" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RaAAOCI42IBACIIkhOFAAQAoAAwVBUEBKGBgAAMAFII=</HashCode>
+      <FileName>Graphics\Effect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFont" Collapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgEAAAAAAABAAAEAAACAAAAAAAAIAEAFAAABAAAA=</HashCode>
+      <FileName>Graphics\Font.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHUD" Collapsed="true">
+    <Position X="33.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAAAAgCAAAAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Graphics\HUD.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CParticleSystem" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\ParticleSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRain" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Graphics\ParticleSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSmoke" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Graphics\ParticleSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRenderToTexture" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAQAAAAEAAAAAAAAKAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Graphics\RenderToTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShadowMapping" Collapsed="true">
+    <Position X="33.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAQ=</HashCode>
+      <FileName>Graphics\ShadowMapping.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShadowVolume" Collapsed="true">
+    <Position X="35.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAA=</HashCode>
+      <FileName>Graphics\ShadowVolume.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTexture" Collapsed="true">
+    <Position X="26.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIAACAAAAEQAQIAAAAAAAAAAAAABAAAAEAA=</HashCode>
+      <FileName>Graphics\Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInput" Collapsed="true">
+    <Position X="35.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QFACACCgBMNURElmAU0AMQIAAACAgGoAAQIEgAgoBQA=</HashCode>
+      <FileName>Input\Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAgent" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAACACAiAAAAAECAAoRAQQAAFQCAABQAAAAA=</HashCode>
+      <FileName>AI\Agent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMath" Collapsed="true">
+    <Position X="31.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARghIAAGAAQBASYIAAQMAAAAAIBQAAQAAAgEGAQAAk=</HashCode>
+      <FileName>Math\Math.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMatrix" Collapsed="true">
+    <Position X="33.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAQEAAAQAAAEAAggQAAgAAAAAAAIAAgAAAAAAA=</HashCode>
+      <FileName>Math\Matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTransformMatrices" Collapsed="true">
+    <Position X="30" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABABAAAAAAAAAgBAAAQWAECAAAAAAAABAgAAAAAJAA=</HashCode>
+      <FileName>Math\Matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CQuaternion" Collapsed="true">
+    <Position X="35.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAQAAAABAAAAAAQAgABAAAAA=</HashCode>
+      <FileName>Math\Quaternion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVector4" Collapsed="true">
+    <Position X="35.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAUEEAARAAAAAAAICAgHQgAGAJAAA=</HashCode>
+      <FileName>Math\Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVector3" Collapsed="true">
+    <Position X="33.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAcEEAARAAAAAAAIAAgHAgAGABAAA=</HashCode>
+      <FileName>Math\Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVector2" Collapsed="true">
+    <Position X="31.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAQAAAAUEEAARAAAAAAAIAAgGAgAGAAAAA=</HashCode>
+      <FileName>Math\Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="30" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABACAAKACAAAAIAAQoAABIBgAAAqAQA=</HashCode>
+      <FileName>MainFrame\MainFrame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTimer&lt;T&gt;" Collapsed="true">
+    <Position X="28.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAACGAAggAAAiAAgCARAAAAAAAAIBAAAgAAAAABI=</HashCode>
+      <FileName>Timer\Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPxDefaultAllocatorCallback" Collapsed="true">
+    <Position X="31.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Physics\Physics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPxDefaultErrorCallback" Collapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Physics\Physics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPhysics" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIAEAAgAAAAgAAJAAAAABMABgAQAIAAAgAAAA=</HashCode>
+      <FileName>Physics\Physics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCamera" Collapsed="true">
+    <Position X="31.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAggFAImAQIAEAAQQAJAAAQgAAICAEAoACAABBAIBQA=</HashCode>
+      <FileName>Camera\Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGame" Collapsed="true">
+    <Position X="31.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAAMBAAFASAAAWMAAAKAAgEIARAAEAAAAQAAICA=</HashCode>
+      <FileName>Game\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInputLayout" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgEAARCAQFAgJAIgAEAAEQBgEoAMAILAAIBoCAAAACI=</HashCode>
+      <FileName>Primitives\InputLayout.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMesh" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives\Mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlane" Collapsed="true">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAHBgAAAAAAA=</HashCode>
+      <FileName>Primitives\Plane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBasePrimitive" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEEAAAEHACAAACEIARAAAEAAAAAEAAIBAAgAAEAg=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInstanceBasePrimitive" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAIAAQAAAAAAAAAAAAAAAEJAAAAAEAAAAFAIAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCirclePrimitive" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAAAAAAAAAAAAQIAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSpherePrimitive" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAIAAAAEAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCylinderPrimitive" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAABAAQAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCubePrimitive" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAQAAAAACAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInstanceCubePrimitive" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAKAAAAAAAIAAAAAAAAAAgAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCapsulePrimitive" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAIAAAAAAAAAAACAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGridPrimitive" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAABAAI=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlanePrimitive" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInstancePlanePrimitive" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAABAACAAAAIAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFullscreenQuad" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPointPrimitive" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAICAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAssetLoader" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEIBAcACAACAAEAAgAwQAAAIAAgCAAgARAEAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C3DSAsset" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAMAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COBJAsset" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAMgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMD5Asset" Collapsed="true">
+    <Position X="35.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Primitives\Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAudio" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgIAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAkIAAAAAA=</HashCode>
+      <FileName>Audio\Audio.h</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CApp" Collapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQADAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQ=</HashCode>
+      <FileName>App\App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSettings" Collapsed="true">
+    <Position X="31.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAEAAAAAAAAAACABAAEBAAQAAIAA=</HashCode>
+      <FileName>Settings\Settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLog" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQAAAAECgCAgAAEAIAAAAAAAAAAEAA=</HashCode>
+      <FileName>Log\Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScript" Collapsed="true">
+    <Position X="30" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAQAAEAAAAAAAAAAIAAAEAACAAAgA=</HashCode>
+      <FileName>Script\Script.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SNeverChangesConstantBuffer" Collapsed="true">
+    <Position X="31.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Effect.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SChangesEveryFrameConstantBuffer" Collapsed="true">
+    <Position X="35.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIBAAEAAAAQAAAAAAAAAAAAEAAAAABAAAAAAAA=</HashCode>
+      <FileName>Graphics\Effect.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SInstanceConstantBuffer" Collapsed="true">
+    <Position X="26.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Effect.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SMaterialLightConstantBuffer" Collapsed="true">
+    <Position X="30" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACACAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Effect.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SParticle" Collapsed="true">
+    <Position X="33.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAIAAAAAAAAAEAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\ParticleSystem.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SRay" Collapsed="true">
+    <Position X="26.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Math\Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SProjMotionData" Collapsed="true">
+    <Position X="35.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABQAAAA=</HashCode>
+      <FileName>Math\Math.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SBoundingBox" Collapsed="true">
+    <Position X="31.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives\BoundingVolume.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SBoundingSphere" Collapsed="true">
+    <Position X="33.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives\BoundingVolume.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SVertex" Collapsed="true">
+    <Position X="28.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAADAAAgAAAAAAAAAAAACAA3CAAAAAAAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SMaterial" Collapsed="true">
+    <Position X="28.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAQAAgAAgAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Primitives\Primitive.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="S3DPosVertex" Collapsed="true">
+    <Position X="30" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAA=</HashCode>
+      <FileName>Primitives\Vertex.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="S3DPos2DTexVertex" Collapsed="true">
+    <Position X="26.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3AAAAAAAAA=</HashCode>
+      <FileName>Primitives\Vertex.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="S3DPos3DNorm2DTexVertex" Collapsed="true">
+    <Position X="28.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA3QAAAAAAAI=</HashCode>
+      <FileName>Primitives\Vertex.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="EAgentType" Collapsed="true">
+    <Position X="26.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AI\Agent.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ECameraMode" Collapsed="true">
+    <Position X="28.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Camera\Camera.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ECameraOrientation" Collapsed="true">
+    <Position X="30" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Camera\Camera.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EGameMode" Collapsed="true">
+    <Position X="31.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAAAEAAAgAAABAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Game\Game.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
